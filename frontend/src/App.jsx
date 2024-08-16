@@ -1,6 +1,7 @@
 // src/App.jsx
 import React from 'react';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+// import reactLogo from "./assets/react.svg"; // Comment this line out if you don't have the file.
 import Header from './components/Header';
 import Footer from './components/Footer';
 import Home from './pages/Home';
